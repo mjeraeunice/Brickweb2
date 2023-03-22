@@ -1,0 +1,284 @@
+@media (max-width: 530px) {
+    body {
+      background-color:aqua;
+    }
+  }
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 270px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-flex;
+    padding: 9px 35px;
+    color: black;
+}
+.logo img{
+    width: 90px;
+    margin-left: 200px;
+}
+
+#brickh{
+    margin-left: 300px;
+    margin-top: -50px;
+}
+#head{
+    margin-left: 430px;
+    margin-top: -28px;
+}
+#search{
+    text-align: center;
+}
+.iconsearch{
+    
+}
+.catalogue{
+    
+    margin-left:48px;
+    margin-top: 33px;
+}
+#icons{
+    margin-left: 800px;
+    margin-top: -16px;
+}
+#All{
+    background-color: yellow;
+}
+#Rings img{
+    width: 450px;
+    margin-top: 15px;
+    height: 60vh;
+    margin-left: 20px;
+}
+#newBt{
+    margin-top: -50px;
+    margin-left: 20px;
+}
+#recent{
+    margin-left: 480px;
+    font-size: 30px;
+}
+#pictures1{
+    display: flex;
+    gap: 10%;
+}
+#z1,#z2,#z3,#z4{
+    width:160px ;
+    height: 30vh;
+}
+#bomb{
+    margin-right: 200px;
+}
+#Pictures2{
+    display: flex;
+    gap: 10%;
+}
+#k1,#k2,#k3,#k4{
+    width: 160px;
+    height: 30vh;
+}
+#pictures3{
+    display: flex;
+    gap: 5%;
+    margin-left: 140px;
+}
+#s1,#s2,#s3{
+    width: 300px;
+    height: 30vh;
+}
+#pictures4{
+    display: flex;
+    gap: 7%;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+#s4,#s5,#s6{
+    width: 300px;
+    height: 30vh;
+}
+#s7,#s8,#s9,#s10{
+    width: 300px;
+    height: 30vh;
+}
+#pictures5{
+    gap: 5%;
+    margin-left: 120px;
+    display: flex;
+    margin-top: 25px;
+}
+#pictures6{
+    gap: 5%;
+    display: flex;
+    margin-left: 110px;
+    margin-top: 25px;
+}
+#s11,#s12,#s13,#s14{
+    width: 300px;
+    height: 30vh;
+}
+#series{
+   text-align: center;
+   font-size: 30px;
+}
+#pictures7{
+    display: flex;
+    gap: 5%;
+    margin-left: 110px;
+    margin-top: 25px;
+}
+#d1,#d2,#d3{
+    width: 300px;
+    height: 30vh;
+
+}
+
+
+
+
+#NEW{
+    margin-left: 570px;
+    font-size: 25px;
+}
+#BT2{
+    padding: 10px 15px;
+    margin-left: 560px;
+    background-color: rgba(255, 255, 0, 0.904);
+}
+#Discounts{
+    margin-left: 565px;
+    font-size: 25px;
+    color: black;
+
+}
+#promo img{
+    width: 290px;
+    height: 28vh;
+    margin-left: 400px;
+}
+#promo{
+    margin-top: -180px;
+}
+#pandora img{
+    width: 290px;
+    height: 30vh;
+    margin-left: 790px;
+}
+#pandora{
+    margin-top: -190px;
+}
+#Newyear{
+    font-size: 18px;
+    margin-top: 10px;
+}
+#Bday{
+    margin-left: 400px;
+    margin-top: -33px;
+    font-size: 18px;
+}
+#set{
+    margin-left: 820px;
+    margin-top: -30px;
+    font-size: 18px;
+}
+#angles{
+    margin-left: 650px;
+    font-size: 35px;
+    justify-content: space-between;
+    color: yellow;
+}
+.last{
+    background-color:darkblue;
+}
+.Form{
+    float: right;
+    margin-top: -390px;
+    margin-right: 120px;
+    background-color: whitesmoke;
+    width: 290px;
+    padding: 5%;
+    height: 50vh;
+}
+#select{
+    background-color: yellow;
+    padding: 8px 25px;
+}
+#Note{
+    background-color:#ffd600;
+    height: 10vh;
+}
+#email{
+    margin-left: 320px;
+}
+#discount{
+margin-bottom: -2px;
+
+}
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #26004c;
+    margin-top: -20px;
+    padding: 40px 40px;
+}
+.intro{
+position: relative;
+display: inline-block;
+}
+.text{
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 180px;
+    transform: translate(-50%,-50%);
+    font-size: 1.2rem;
+    right: 0;
+    padding: 10px;
+    z-index: 1;
+}
+#fonts img{
+    width: 70px;
+    margin-left: 20px;
+}
+#fonts{
+margin-top: -70px;
+}
+#button1{
+    background-color: yellow;
+    padding: 3px 5px;
+}
+.tie{
+    margin-left: 320px;
+    text-align: justify;
+}
+.dago{
+    margin-top: -45px;
+    text-align: justify;
+}
+.at{
+    margin-left: 700px;
+    text-align: justify;
+}
+.star{
+    margin-left: 970px;
+    margin-top: -25px;
+    text-align: justify;
+}
+.gandalf{
+margin-left: -50%;
+}
+.payakan{
+
+}
+.turok{
+
+}
+.clone{
+
+}
